@@ -13,7 +13,7 @@ This project implements an end-to-end voice-enabled conversational system, incor
 
 ### Prerequisites
 - **Python 3.8+**
-- **NVIDIA GPU** with CUDA (for ASR model if available)
+- **NVIDIA GPU** with CUDA (for ASR model if available) 
 - Required Python packages listed in `requirements.txt`
 
 ### Install Dependencies
