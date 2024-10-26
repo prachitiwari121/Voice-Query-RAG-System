@@ -1,4 +1,4 @@
-# Voice-Enabled Conversational System
+# Voice-Query-RAG-System
 
 This project implements an end-to-end voice-enabled conversational system, incorporating **Automatic Speech Recognition (ASR)**, **text translation**, **vector database retrieval**, and **Retrieval-Augmented Generation (RAG)** to answer questions based on provided audio input.
 
